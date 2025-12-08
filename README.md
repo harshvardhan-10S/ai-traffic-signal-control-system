@@ -176,6 +176,5 @@ ai-traffic-signal-control-system/
 **Harshvardhan Shinde**  
 Electronics & Telecommunication Engineering  
 Interest Areas: Computer Vision, IoT, Embedded Systems, Transport Automation
-
-GitHub: https://github.com/harshvardhan-10S  
+ 
 LinkedIn: https://www.linkedin.com/in/harshvardhan-shinde-063699345  
