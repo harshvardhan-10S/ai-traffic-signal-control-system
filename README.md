@@ -50,9 +50,9 @@ A live camera feed is processed using YOLO to count vehicles, and signal timings
 ---
 
 ## 4️⃣ Circuit Diagram
-(*Rename your circuit image exactly as shown and add it to the repo*)
+Block diagram.png
 
-The file must be located at:
+The file must be located at: Block diagram.png
 
 ---
 
