@@ -95,6 +95,23 @@ smart-ai-traffic-control-system/
 - Cloud-based monitoring dashboard  
 - Multi-intersection coordination  
 
+
+## 📊 System Architecture & Workflow
+
+The following diagram represents the complete workflow of the **Smart & AI-Integrated Traffic Signal Control System**, showing how YOLO-based vehicle detection, air-quality monitoring, and Arduino-based signal control operate together in real time.
+
+### 🔷 Flowchart / Architecture Diagram
+![System Flowchart](media/system_flowchart.jpg)
+
+### 📌 Key Highlights of the Architecture
+- **Dual-lane real-time video processing** using YOLO for vehicle counting  
+- **Python engine** handles detection logic + displays dashboard data  
+- **Master Arduino UNO** executes timing algorithms based on density and air-quality  
+- **I²C communication** enables synchronized operation across all Arduino controllers  
+- **Slave Arduinos** manage independent signal control for each lane  
+- **MQ135 sensor** continuously monitors air pollution levels (A0 input)  
+- **Centralized logic** ensures adaptive, efficient, congestion-aware signal switching  
+
 ---
 
 ## 👤 Author
