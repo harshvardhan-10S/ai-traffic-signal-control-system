@@ -50,7 +50,6 @@ A live camera feed is processed using YOLO to count vehicles, and signal timings
 ---
 
 ## 4️⃣ Circuit Diagram
-Block diagram.png
 
 The file must be located at: Block diagram.png
 
@@ -99,9 +98,6 @@ smart-ai-traffic-control-system/
 ## 📊 System Architecture & Workflow
 
 The following diagram represents the complete workflow of the **Smart & AI-Integrated Traffic Signal Control System**, showing how YOLO-based vehicle detection, air-quality monitoring, and Arduino-based signal control operate together in real time.
-
-### 🔷 Flowchart / Architecture Diagram
-![System Flowchart](media/system_flowchart.jpg)
 
 ### 📌 Key Highlights of the Architecture
 - **Dual-lane real-time video processing** using YOLO for vehicle counting  
